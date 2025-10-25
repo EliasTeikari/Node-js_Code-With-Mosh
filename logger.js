@@ -1,3 +1,4 @@
+var x =;
 const url = "http://mylogger.io/log";
 
 function log(message) {
